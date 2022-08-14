@@ -1,0 +1,9 @@
+server:
+  port: 8086
+spring:
+  application:
+    name: micro02
+  data:
+    mongodb:
+      database: demo_CreditCard
+      uri: mongodb://localhost:27017

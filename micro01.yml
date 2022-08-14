@@ -1,0 +1,10 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: micro01
+  data:
+    mongodb:
+      database: demo_Credit
+      uri: mongodb://localhost:27017
+
