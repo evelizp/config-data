@@ -20,4 +20,4 @@ spring:
         - id: micro02
           uri: lb://micro02
           predicates:
-            - Path=/afp/**
+            - Path=/api/creditcards/**
